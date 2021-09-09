@@ -1,4 +1,11 @@
-﻿using System;
+﻿// -------------------------------------------------------------------------------------------------------------------------------------------
+//
+//    Chop Zone is a technical analysis indicator that shows how choppy the market is.
+//    This is the Chop Zone custom indicator for cTrader based on Automate API.
+//
+// -------------------------------------------------------------------------------------------------------------------------------------------
+
+using System;
 using cAlgo.API;
 using cAlgo.API.Indicators;
 
